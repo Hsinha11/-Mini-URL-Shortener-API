@@ -1,0 +1,20 @@
+body { font-family: Arial, sans-serif; background: #f7f7f7; margin: 0; padding: 0; }
+    .container { max-width: 800px; margin: 40px auto 20px auto; background: #fff; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); padding: 32px 24px; }
+    h1 { text-align: center; color: #333; }
+    input[type="url"] { width: 100%; padding: 10px; font-size: 1rem; border: 1px solid #ccc; border-radius: 4px; margin-bottom: 16px; }
+    button { width: 100%; padding: 10px; font-size: 1rem; background: #007bff; color: #fff; border: none; border-radius: 4px; cursor: pointer; transition: background 0.2s; }
+    button:hover { background: #0056b3; }
+    .result, .error { margin-top: 18px; text-align: center; }
+    .result a { color: #007bff; text-decoration: none; font-weight: bold; }
+    .copy-btn { margin-left: 8px; padding: 3px 10px; font-size: 0.92rem; border: none; border-radius: 3px; background: #007bff; color: #fff; cursor: pointer; transition: background 0.2s; vertical-align: middle; }
+    .copy-btn:hover { background: #0056b3; }
+    .copy-btn:active { background: #004080; }
+    .table-section { margin-top: 36px; }
+    table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+    th, td { padding: 8px 6px; border-bottom: 1px solid #eee; text-align: left; font-size: 0.97rem; }
+    th { background: #f0f0f0; }
+    .footer { text-align: center; color: #888; margin: 30px 0 10px 0; font-size: 1rem; }
+    .short-link { color: #007bff; text-decoration: none; display: inline-block; text-align: center; width: 100%; }
+    .short-link:hover { text-decoration: underline; }
+    .centered-cell { text-align: center; }
+    .copied-msg { color: #28a745; font-size: 0.95rem; margin-left: 6px;
