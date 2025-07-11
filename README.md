@@ -28,7 +28,7 @@ A modern, user-friendly URL shortener built with Node.js, Express, and PostgreSQ
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Hsinha11/Mini-URL-Shortener-API.git
    cd url-shortener
    ```
 
